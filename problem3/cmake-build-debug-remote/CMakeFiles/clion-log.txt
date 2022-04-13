@@ -1,0 +1,1 @@
+Cannot create directory /Users/viskaria/Documents/Amazon/Herring/Onboarding Tasks/herring-onboarding/problem3/cmake-build-debug-remote: `mkdir "/Users"` failed with exit code 1: stdout='', stderr='mkdir: cannot create directory '/Users': Permission denied'
