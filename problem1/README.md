@@ -1,5 +1,6 @@
-To get familiar with cmake,
+### Familirize with CMake
 
+Prompt:
 1. Write a simple .c file that will print “hello world”
 2. Write CMakeLists.txt file to build an executable from the .c file.
 3. Build binary from command line and run the binary. 
@@ -11,4 +12,9 @@ mkdir build && cd build
 cmake ..
 make
 ./hello_world
+```
+
+Expected Output:
+```
+Hello, World!
 ```
